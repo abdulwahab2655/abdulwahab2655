@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I'm+Abdul+Wahab!;" />
 </h1>
 
-<h3 align="center">A Passionate Full Stack Web Developer | Lahore, Pakistan 🇵🇰</h3>
+<h3 align="center">I'm a MERN Stack Developer and Student </h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently diving deep into **MERN Stack**
  
- 🌱 Learning **Kotlin, Computer Vision, and AWS**
+ 🌱 Learning **GraphQL, TypeScript, and Kotlin**
 
- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB... or anything [here](https://github.com/abdulwahab2655/abdulwahab2655/issues)**
+ 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 
  ⚡ Fun fact **I believe every line of code tells a story!**
  
@@ -27,18 +27,16 @@
   <a href="https://www.linkedin.com/in/abdul-wahab-8b704021a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/abdulwahab2655" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
 </div>
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,python,nextjs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,cpp,c,mysql,flask" /><br>
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,python,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,cpp,c,mysql,flask,androidstudio,csharp" /><br>
+
 </div>
 
 <br/>
