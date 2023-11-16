@@ -18,9 +18,10 @@
 
  ⚡ Fun fact **I believe every line of code tells a story!**
  
- </div>
+ </div></br>
  
 <div align="center"> 
+    🤝🏻 &nbsp;Connect with Me</br></br>
   <a href="mailto:abdulwahab2655@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,25 +35,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,python,graphql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,cpp,c,mysql,flask,androidstudio,csharp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,python,graphql,androidstudio,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,cpp,c,flask,postgresql" /><br>
 
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdulwahab2655/abdulwahab2655/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-<div>
-</div>
-
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -64,17 +52,6 @@
 </div>
 
 <br/><br/>
-<hr/>
-<div align="center">
-    <h2 align="center">🎖️ Badges Earned 🎖️</h2>
-    <br>
-  <a href="holopin.io/@abdulwahab2655#">
-    <img src="https://holopin.me/abdulwahab2655#" alt="Holopin badges" />
-  </a>
-    <br>
-    <br>
-</div>
-<hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me+on+LinkedIn!;">
 </h3>
